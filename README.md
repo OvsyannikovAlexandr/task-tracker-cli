@@ -142,5 +142,5 @@ All tasks are stored in JSON format:
 
 ## 📄 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the (**MIT License**)[https://github.com/abneed/task-tracker-cli/blob/master/LICENSE].
 

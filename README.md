@@ -3,7 +3,7 @@ A simple command-line task tracker written in **Go**.
 It allows users to add, update, delete tasks, change task status, and list tasks using only native Go libraries and positional CLI arguments.
 Tasks are stored in a local `tasks.json` file in the current directory.
 
-Roadmap Project Challenge: https://roadmap.sh/projects/task-tracker
+Roadmap Project Challenge: [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 ## ✅ Features
 
@@ -141,5 +141,5 @@ All tasks are stored in JSON format:
 
 ## 📄 License
 
-This project is open-source and available under the (**MIT License**)[https://github.com/abneed/task-tracker-cli/blob/master/LICENSE].
+This project is open-source and available under the [**MIT License**](https://github.com/abneed/task-tracker-cli/blob/master/LICENSE).
 

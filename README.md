@@ -137,8 +137,7 @@ All tasks are stored in JSON format:
 - Add support for due dates and priorities  
 - Export/import tasks  
 - Add search or filter by keyword  
-- Add colored output by status  
-- Unit tests  
+- Add colored output by status   
 
 ## 📄 License
 
